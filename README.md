@@ -17,7 +17,8 @@ GreenDen is a modern and responsive plant shopping website designed to bring nat
 - Tailwind CSS – For styling, layouts, and responsive design.
 
 How to view:
-click this link https://github.com/vaishalivaishi528-cell/Greenden--project.git visit my website
+
+click this link to explore my project https://github.com/vaishalivaishi528-cell/Greenden--project.git 
 
  Project Objective:
 
