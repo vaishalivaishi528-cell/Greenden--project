@@ -18,7 +18,7 @@ GreenDen is a modern and responsive plant shopping website designed to bring nat
 
 How to view:
 
-click this link to explore my project https://github.com/vaishalivaishi528-cell/Greenden--project.git 
+click this link to explore my project  https://vaishalivaishi528-cell.github.io/Greenden--project/
 
  Project Objective:
 
